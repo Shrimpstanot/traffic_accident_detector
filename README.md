@@ -10,7 +10,7 @@ The entire pipeline is built to be deployable, featuring a multi-threaded, "chun
 
 ### 🎥 Live Demo
 
-![Real-Time Crash Detection Demo](https://i.imgur.com/5krQLsx.gif) 
+![Real-Time Crash Detection Demo](demo/DEMO_crash.gif) 
 
 
 ---
